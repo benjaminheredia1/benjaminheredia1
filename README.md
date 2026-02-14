@@ -110,8 +110,8 @@ fun_fact: I turn ☕ into <code/>
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjaminheredia1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminheredia1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=benjaminheredia1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=benjaminheredia1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@ fun_fact: I turn ☕ into <code/>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminheredia1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminheredia1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -129,19 +129,15 @@ fun_fact: I turn ☕ into <code/>
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benjaminheredia1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=benjaminheredia1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjaminheredia1/benjaminheredia1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjaminheredia1/benjaminheredia1/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/benjaminheredia1/benjaminheredia1/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/6C63FF/benjaminheredia1" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 ---
